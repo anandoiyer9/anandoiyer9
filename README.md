@@ -45,15 +45,15 @@ Production-grade framework for building multi-agent LLM systems using the evalua
 - Built MarketingOS from scratch to $150M+ ARR
 - Identified by CEO as "next billion-dollar business"
 
-**Co-Founder, SVP Engineering** at Svadis (Acquired)
+**Co-Founder, VP Engineering** at Svadis (Acquired)
 - Neural architecture search 3 years before Google's NAS paper
 - Deep RL for quantitative trading (DQN, policy gradients)
 
 ## 🎓 Education
 
-- **Stanford University** — M.S. Management Science & Engineering
-- **IIT** — B.Tech Electronics & Communication Engineering  
-- **Wharton School** — MBA Strategy & General Management
+- **Stanford University** — M.S.
+- **IIT** — B.Tech ECE  
+- **Wharton School** — MBA
 
 ## 📫 Connect
 
