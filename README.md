@@ -37,7 +37,7 @@ Production-grade framework for building multi-agent LLM systems using the evalua
 
 ## 💼 Background
 
-**CTO / Head of Product & Engineering** at Foundry (Blackstone PE)
+**Head of Product & Engineering / CTO** at Foundry (Blackstone PE)
 - Leading agentic AI transformation across $500M B2B media portfolio
 - Filed patent: "Systems and Methods for Predicting User Intent"
 
