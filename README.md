@@ -26,7 +26,7 @@ Currently focused on **evaluator-optimizer patterns** for production LLM systems
 | Products built 0→1 | $150M+ ARR in 18 months |
 | Portfolio managed | $500M+ |
 | Teams led | 300+ engineers |
-| Acquisitions integrated | 4 |
+| Acquisitions integrated | 5 |
 
 ## 🚀 Featured Projects
 
@@ -46,7 +46,6 @@ Production-grade framework for building multi-agent LLM systems using the evalua
 - Identified by CEO as "next billion-dollar business"
 
 **Co-Founder, VP Engineering** at Svadis (Acquired)
-- Neural architecture search 3 years before Google's NAS paper
 - Deep RL for quantitative trading (DQN, policy gradients)
 
 ## 🎓 Education
